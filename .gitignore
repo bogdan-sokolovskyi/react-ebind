@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+out-tsc
+dts
+lib
+es
+.idea/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+package-lock.json
